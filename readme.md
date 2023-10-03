@@ -12,5 +12,5 @@ This is a simple calculator program written in Python using the `tkinter` librar
 
 - To clear the current expression, click the "C" button.
 
- ## Acknowledgments
+ ## Acknowledgments 📌
  This calculator was created as a simple educational project and may have limitations. It serves as a basic example of creating a graphical calculator using Python and tkinter. Feel free to modify and expand upon it for your own learning or use cases.
