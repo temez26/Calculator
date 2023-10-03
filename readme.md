@@ -1,4 +1,4 @@
-﻿# Calculator
+﻿# Calculator 📠
 
 This is a simple calculator program written in Python using the `tkinter` library for creating the graphical user interface and the `math` library for performing mathematical operations. This calculator provides basic arithmetic and some additional functions such as square root and memory storage.
 
